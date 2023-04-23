@@ -16,7 +16,7 @@ Setup and Installation ⚙️
 
 1.  Clone the repository to your local machine.
 
-git clone https://github.com/yourusername/PrognosisPro.git
+git clone https://github.com/skotchar/PrognosisPro.git
 
 1.  Set up a virtual environment and install the required packages.
 
@@ -47,4 +47,4 @@ We welcome contributions to Prognosis Pro! If you have an idea for a new feature
 License 📄
 ----------
 
-This project is licensed under the MIT License - see the [LICENSE](https://chat.openai.com/LICENSE) file for details.
+This project is licensed under the MIT License
